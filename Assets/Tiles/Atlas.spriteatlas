@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+    totalSpriteSurfaceArea: 8704
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 3833822999604705709, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 2744059552244012735, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 3833004856467946973, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -999529412379567099, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -6564699889668439615, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 3759740769380487848, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 4029273407147901636, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -5301776276354794684, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 6280221570647430990, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 3728226075912536654, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -6804935548578394732, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 7150334823525899482, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 7466246810533158804, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 1654437061793201676, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -3676121161868448857, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 4801767366052129142, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 6277475403318882885, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -3037021524857725818, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -6068341008742842969, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -1870893511623820078, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 6601623180592823347, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 2349376373390755605, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 5350774023006335935, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -6936891061179729678, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -8700759193031884124, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -7599710521059288718, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -6813255558183542548, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 6298242538484995002, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -1160430510039078738, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -3681643292961044633, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 9179740290047523628, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 7499111261500461687, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: 2458794268948668435, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  - {fileID: -6809652078720440463, guid: 9ae7f32e39b98d246b18404fd3dfa025, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tileset 1_31
+  - Tileset 1_21
+  - Tileset 1_20
+  - Tileset 1_23
+  - Tileset 1_22
+  - Tileset 1_25
+  - Tileset 1_24
+  - Tileset 1_27
+  - Tileset 1_26
+  - Tileset 1_1
+  - Tileset 1_0
+  - Tileset 1_3
+  - Tileset 1_2
+  - Tileset 1_5
+  - Tileset 1_4
+  - Tileset 1_7
+  - Tileset 1_6
+  - Tileset 1_9
+  - Tileset 1_8
+  - Tileset 1_10
+  - Tileset 1_11
+  - Tileset 1_12
+  - Tileset 1_13
+  - Tileset 1_14
+  - Tileset 1_15
+  - Tileset 1_16
+  - Tileset 1_17
+  - Tileset 1_18
+  - Tileset 1_19
+  - Tileset 1_29
+  - Tileset 1_32
+  - Tileset 1_28
+  - Tileset 1_33
+  - Tileset 1_30
+  m_RenderDataMap: {}
+  m_Tag: Atlas
+  m_IsVariant: 0
